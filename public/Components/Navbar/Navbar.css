@@ -1,0 +1,204 @@
+@font-face {
+    font-family: 'Neue-Bold';
+    src: url('../../../public/Fonts/ppneuemontreal-bold.otf') format('woff2');
+}
+
+@font-face {
+    font-family: 'Neue-Regular';
+    src: url('../../../public/Fonts/ppneuemontreal-book.otf') format('woff2');
+}
+
+@font-face {
+    font-family: 'Neue-Medium';
+    src: url('../../../public/Fonts/ppneuemontreal-medium.otf') format('woff2');
+}
+
+@font-face {
+    font-family: 'Neue-Light';
+    src: url('../../../public/Fonts/ppneuemontreal-thin.otf') format('woff2');
+}
+
+
+.navbar-main {
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: auto;
+    right: 0%;
+    z-index: 99;
+    opacity: 1;
+    display: flex;
+}
+
+.trigger-button{
+    backdrop-filter: blur(10px);
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, .25);
+    border-radius: 10px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: .4rem .6rem;
+    display: flex;
+    position: fixed;
+    top: 2.5rem;
+    bottom: auto;
+    left: auto;
+    right: 2.5rem;
+    overflow: hidden;
+    transition: opacity 1s ease-in-out; /* Smooth transition for opacity */
+    opacity: 0;
+
+}
+
+.trigger-button.visible {
+    opacity: 1;
+}
+
+
+.menu-trigger-inner{
+    cursor: pointer;
+    flex-flow: column;
+    height: auto;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+.button-text{
+    font-family: 'Neue-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: var( 1.3em);
+    text-align: left;
+    letter-spacing: -.05px;
+    margin-bottom: 0;
+    font-weight: 400;
+    color: #fff;
+}
+
+.hidden-menu{
+    z-index: 101;
+    background-color: white;
+    flex-flow: column;
+    align-items: flex-start;
+    width: 35rem;
+    height: 100vh;
+    padding: 4rem 4rem 3rem;
+    display: flex;
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: auto;
+    right: -200%;
+    transition: all 0.6s ease-out;
+    box-sizing: border-box; /* Include padding within the width and height */
+
+}
+
+.shadows-div{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed; /* Ensure this covers the entire viewport */
+    left: 0;
+    top: 0;
+    z-index: 100;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.hidden-menu.visible {
+    right: 0%;
+}
+.shadows-div.visible{
+    opacity: 1;
+}
+
+.first-hidden-row{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.close-button{
+    font-family: 'Neue-Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: var( 1.3em);
+    text-align: right;
+    letter-spacing: -.05px;
+    margin-bottom: 0;
+    font-weight: 400;
+
+    align-self: flex-end;
+    cursor: pointer;
+    color: #a7a7a7;
+}
+
+
+.navigations-column{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.navigation-wrapper{
+    overflow: hidden;
+}
+
+.navigation{
+    font-size: 60px;
+    font-family: 'Neue-Regular';
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    margin: 0;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+
+.navigation:hover{
+    color: #F06E00;
+}
+
+@media (max-width: 1000px) {
+    .trigger-button{
+        
+        top: 1.5rem;
+        
+        right: 1.5rem;
+        
+    
+    }
+
+    .hidden-menu{
+        width: 100%;
+    }
+
+    .hidden-menu{
+        
+        padding-bottom: 1.5rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        
+    }
+
+    .navigation{
+        font-size: 48px;
+        font-family: 'Neue-Regular';
+        font-weight: 400;
+        font-style: normal;
+        color: black;
+    }
+
+    
+    
+  }
