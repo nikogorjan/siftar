@@ -7,21 +7,24 @@ import Reservation from "./_components/Reservation/Reservation";
 import Stats from "./_components/Stats/Stats";
 import Sticky from "./_components/Sticky/Sticky";
 import Vision from "./_components/Vision/Vision";
-
+import "./globals.css";
 
 export default function Home() {
   return (
     <main>
-      <div className='thisstupis'>
-      <Navbar/>
-      <Hero/>
-      <Stats/>
-      <Grid/>
-      <Food/>
-      <Vision/>
-      <Sticky/>
-      <Reservation/></div>
-      <footer><Footer/></footer>
+      <div className="thisstupis">
+        <Navbar />
+        <Hero />
+        <Stats />
+        <Grid />
+        <Food />
+        <Vision />
+        <Sticky />
+        <Reservation />
+      </div>
+      <footer>
+        <Footer />
+      </footer>
     </main>
   );
 }
