@@ -1,0 +1,185 @@
+{
+  "HomePage": {
+    "message1": "The perfect place for <orange>relaxation</orange> and <orange>recreation</orange>.",
+    "infoHeader": "Our Information",
+    "nastanitve": "The accommodation is modern and includes everything you need for a comfortable stay.",
+    "lokacija": "Location",
+    "slovenija": "Moravske Toplice, Prekmurje, Slovenia",
+    "stzgradb": "Number of buildings",
+    "stsob": "Number of rooms",
+    "bivalni": "Lounge",
+    "restavracije": "Restaurants",
+    "okrepcevalnice": "Cafeterias",
+    "rezerviraj": "Book now",
+    "oddih": "A magical break in Prekmurje",
+    "oddihh2": "Relaxation, pampering and enjoyment in nature",
+    "oddihm1": "Our villa in the heart of Moravske Toplice, surrounded by unspoilt nature, offers the perfect sanctuary for relaxation. Spacious rooms, modern furnishings and beautiful views make for a pleasant stay in close contact with the Prekmurje countryside.",
+    "oddihm2": "In our guest house you can enjoy delicious Prekmurje specialities, combining tradition and local ingredients. The surrounding area offers many opportunities for recreation and exploration, from thermal springs to cycling trails that will take you through picturesque villages and vineyards.",
+    "vizija": "Vision",
+    "vizijah2": "Our vision for an inspiring Prekmurje break",
+    "vizijap1": "Our vision is to create a sanctuary where relaxation and the natural beauty of Prekmurje combine to create the perfect experience. We believe in sustainable tourism development that preserves nature and strengthens the connection with the local community. Our facilities offer a unique combination of comfort and Prekmurje tradition.",
+    "vizijap2": "Our villa and guesthouse are designed for guests seeking peace, relaxation and connection with nature. The Vivat Spa, located just a few metres away, offers unique thermal delights, while the cycling and walking trails in the surrounding area bring you into direct contact with the beautiful Prekmurje countryside.",
+    "vizijap3": "With special offers for nature lovers, we encourage an active lifestyle, whether exploring the surrounding vineyards, strolling through the fields or visiting the spa. There is an activity to complement a Prekmurje break for everyone.",
+    "vizijap4": "Our restaurant offers authentic Prekmurje cuisine made with fresh, local ingredients. We support Prekmurje producers and sustainable food preparation. Guests can enjoy flavours that are authentic and homemade, while being in line with our vision of sustainability.",
+    "rezervirajz": "Book now!",
+    "rezervirajh2": "Enjoy an unforgettable break",
+    "rezervirajp1": "Our villa and guest house offer the ideal combination of comfort, relaxation and natural beauty. The modern rooms and suites include everything you need for a carefree break. Each apartment is designed with your comfort in mind - spacious rooms, comfortable beds and a beautiful view of the Prekmurje countryside ensure perfect relaxation.",
+    "rezervirajp2": "Just a few metres away from our villa is Terme Vivat, where you can indulge in thermal delights. The surrounding area offers many opportunities to explore nature, from cycling paths through the vineyards to walks on the peaceful Prekmurje plains. Don't miss the chance for an unforgettable break - book now and experience the magic of Prekmurje with special offers for all our guests.",
+    "vila": "Villa Šiftar",
+    "gostisce": "Guesthouse Šiftar",
+    "at": "© Šiftar, all rights reserved"
+  },
+  "GostiscePage": {
+    "message1": "Šiftar Guesthouse",
+    "message2": "In Gostišče Šiftar, we prepare the rich flavours of Slovenia in our gourmet cuisine. Each dish is prepared according to traditional recipes and with the finest local ingredients, ensuring an unforgettable dining experience. We also offer weekly brunches, the perfect snack for your everyday needs.",
+    "message3": "View the menu",
+    "testimonialsHeader": "Reviews from our guests!",
+    "testimonial1": "\"Very good place, very good food, low prices, employees are very friendly and helpful, the town has parking spots with roofs and you can even charge electric vehicles.\"",
+    "testimonial2": "\"Excellent food. Exceptionally generous portion. Don't order too much and come hungry. Everything is 3 times more delicious than a Michelin-starred restaurant. Prices are ridiculous. You can't believe it. Highly recommended! Many thanks for everything!\"",
+    "testimonial3": "\"I recommend it to everyone who finds themselves in this corner of Slovenia! You can just have lunch or dinner, a snack - their soups and fried eggs are amazing. Great food, rooms, apartments, and staff - you won't regret it! 👍❤️🍀🤗\"",
+    "menuh": "Our Menu",
+    "menup": "We are happy to arrange regular lunch deliveries.",
+    "rezervirajz": "Book now!",
+    "title": "Gostišče Šiftar Offerings",
+    "description": "At Gostišče Šiftar, we provide top-notch cuisine and comfortable accommodations, ensuring an unforgettable experience.",
+    "subheading1": "Catering",
+    "subheading1_description": "Enjoy a diverse menu crafted from fresh and local ingredients.",
+    "subheading2": "Accommodations",
+    "subheading2_description": "Relax in our comfortable rooms, equipped for your perfect stay.",
+    "pn": "View accommodation",
+    "lokacija": "Location",
+    "email": "E-mail address",
+    "telefon": "Telephone",
+    "obisci": "visit us"
+  },
+  "Navigation": {
+    "zapri": "Close",
+    "Rezervacija": "Booking",
+    "Vila": "Villa Šiftar",
+    "Gostišče": "Guesthouse Šiftar",
+    "about": "About us",
+    "Kontakt": "Contact",
+    "Začetna": "Home page",
+    "lp": "Prekmurje"
+  },
+  "contacts": {
+    "email_title": "Email",
+    "email_description": "Reach out to us via our email address.",
+    "tagline": "Our Offerings",
+    "heading": "Contact Us",
+    "description": "At Gostišče Šiftar, we provide top-notch cuisine and comfortable accommodations, ensuring an unforgettable experience.",
+    "email_link_label": "hello@relume.io",
+    "phone_title": "Phone",
+    "phone_description": "Call us for more information.",
+    "phone_link_label": "+1 (555) 000-0000",
+    "office_title": "Location",
+    "office_description": "Levstikova Street 24, 9226 Moravske Toplice",
+    "office_button_title": "Get Directions",
+    "pn": "Directions"
+  },
+  "prekmurje": {
+    "title": "Come and Explore the Beauty of Prekmurje and Enjoy the Thermal Baths.",
+    "subtitle": "We are located near two thermal baths: Terme 3000 and Terme Vivat.",
+    "terme3000": {
+      "title": "Terme 3000",
+      "subtitle": "One of the largest thermal baths in Slovenia."
+    },
+    "termeVivat": {
+      "title": "Terme Vivat",
+      "subtitle": "Located just a few meters away from us."
+    },
+    "Rotunda": "Rotunda",
+    "rotundaDescription": "The Church of St. Nicholas in Selo stands in the village of Selo at the bottom of the Selo valley in eastern Goričko. It is a unique brick Romanesque rotunda in Slovenia. A rotunda (Latin rotundus) is any building with a circular floor plan, sometimes covered with a dome. It can also refer to a circular room in a building.",
+    "prekmurjeDescription": "Prekmurje is a hilly - flatland landscape. Geographically, it is divided into three areas: the hilly area north of Murska Sobota is Goričko; southwest towards the Mura and Austria is Ravensko, southeast of Murska Sobota is Dolinsko. Above Lendava is the Pannonian isolate, a smaller hilly area of the Lendava Hills. Despite being a living cultural landscape, Goričko was recognized in 2003 as a natural value worth preserving as a Landscape Park.",
+    "rezerviraj": "Book now",
+    "rheading": "Reserve Your Accommodation Today",
+    "rsubtitle": "Choose from a wide range of accommodations and ensure an unforgettable visit."
+  },
+  "layout132": {
+    "sections": [
+      {
+        "heading": "Tropical Garden by Ocean Orchids",
+        "description": "Experience a tropical jungle with over 900 exotic specimens of approximately 400 plant species."
+      },
+      {
+        "heading": "Vinarium Tower Lendava",
+        "description": "Vinarium Tower is an observation tower in Slovenia, measuring 53.5 meters in height. It is located in the Dolgovaško Hills, amidst the Lendava Hills above Lendava at an altitude of 302 meters."
+      },
+      {
+        "heading": "Grad Castle",
+        "description": "Grad Castle stands in the village of Grad on Goričko. It is the largest castle complex in Slovenia and, according to legend, has 365 rooms."
+      },
+      {
+        "heading": "Love Island",
+        "description": "Love Island is a natural island on the Mura River in the village of Ižakovci, and also a popular excursion spot."
+      },
+      {
+        "heading": "Paviljon EXPANO",
+        "description": "Step into an exceptional architectural creation, where Pomurje is presented in a clever and innovative way on a small scale."
+      },
+      {
+        "heading": "Vulkanija Adventure Park",
+        "description": "Visit Vulkanija Adventure Park and experience a volcanic eruption yourself."
+      },
+      {
+        "heading": "Pottery Village Filovci",
+        "description": "Filovci Open-Air Museum, a unique place in the heart of Prekmurje, where traditional pottery crafts intertwine."
+      },
+      {
+        "heading": "Bukovniško Lake",
+        "description": "Bukovniško Lake is a reservoir located south of the settlement of Bukovnica in the southeast of Goričko."
+      },
+      {
+        "heading": "Bukovniško Lake Adventure Park",
+        "description": "Near Bukovniško Lake lies an adventure park where the bravest visitors can challenge themselves on 5 climbing paths with 58 different elements."
+      }
+    ]
+  },
+  "bookingHero": {
+    "title": "Book Your Stay Easily and Quickly",
+    "subtitle": "Reservation is easiest to make via the booking.com app, but you can also call us.",
+    "button": "Open Booking App"
+  },
+  "bookingInstructions": {
+    "title": "Instructions for Booking with the booking.com System",
+    "description": "Follow these steps to successfully book your accommodation using the booking.com system.",
+    "step1": "After clicking the button below the text, our page on the booking.com system opens.",
+    "step2": "If you scroll down, you can see the details of our accommodations.",
+    "step3": "To check available dates, first select the check-in and check-out dates and click on the \"availability\" button.",
+    "step4": "Once you enter the dates, available rooms for the selected date will be displayed.",
+    "step5": "When you press the reservation button, enter your details and complete the reservation.",
+    "step6": "You can also contact us."
+  },
+  "contactForm": {
+    "tagline": "Get in Touch",
+    "heading": "Contact Us",
+    "description": "Have a question? Write to us and we will gladly respond.",
+    "email": "info@yourcompany.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Sample St, City, Country",
+    "button": {
+      "title": "Send Message"
+    },
+    "fields": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "chooseTopic": "Choose a topic",
+      "describeYou": "Enquiry",
+      "message": "Message",
+      "acceptTerms": "I accept the Terms"
+    },
+    "selectItems": {
+      "firstChoice": "First Choice",
+      "secondChoice": "Second Choice",
+      "thirdChoice": "Third Choice"
+    },
+    "radioItems": {
+      "firstChoice": "Room Reservation",
+      "secondChoice": "Table or Space Reservation in the Inn",
+      "thirdChoice": "Lunch Order",
+      "other": "Other"
+    }
+  }
+}

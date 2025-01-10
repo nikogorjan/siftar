@@ -4,8 +4,9 @@ import React, { useEffect, useRef, useState } from "react";
 import "./Navbar.css";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { useGSAP } from "@gsap/react";
 import { usePathname } from "next/navigation";
+import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -59,6 +60,9 @@ const Navbar = () => {
     };
   }, [menuVisible]);
 
+  const t = useTranslations("Navigation");
+  const locale = useLocale();
+
   return (
     <div className="navbar-main">
       <div
@@ -77,29 +81,32 @@ const Navbar = () => {
       >
         <div className="first-hidden-row">
           <div className="close-button" onClick={handleMenuToggle}>
-            Zapri
+            {t("zapri")}
           </div>
         </div>
 
         <div className="navigations-column">
-          <div className="navigation-wrapper">
-            <p className="navigation">Rezervacija</p>
-          </div>
-          <div className="navigation-wrapper">
-            <p className="navigation">Vila Šiftar</p>
-          </div>
-          <a href="/gostisce-siftar" className="navigation-wrapper">
-            <p className="navigation">Gostišče Šiftar</p>
+          <a href={`/${locale}/rezervacija`} className="navigation-wrapper">
+            <p className="navigation">{t("Rezervacija")}</p>
           </a>
           <div className="navigation-wrapper">
-            <p className="navigation">O nas</p>
+            <p className="navigation">{t("Vila")}</p>
           </div>
+          <a href={`/${locale}/gostisce-siftar`} className="navigation-link">
+            <p className="navigation">{t("Gostišče")}</p>
+          </a>
+          <a href={`/${locale}/prekmurje`} className="navigation-link">
+            <p className="navigation">{t("lp")}</p>
+          </a>
           <div className="navigation-wrapper">
-            <p className="navigation">Kontakt</p>
+            <p className="navigation">{t("about")}</p>
           </div>
-          <div className="navigation-wrapper">
-            <p className="navigation">Domov</p>
-          </div>
+          <a href={`/${locale}/kontakt`} className="navigation-wrapper">
+            <p className="navigation">{t("Kontakt")}</p>
+          </a>
+          <a href={`/${locale}/`} className="navigation-link">
+            <p className="navigation">{t("Začetna")}</p>
+          </a>
         </div>
       </div>
 

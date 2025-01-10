@@ -1,0 +1,185 @@
+{
+  "HomePage": {
+    "message1": "Popolno mesto za <orange>sprostitev</orange> in <orange>rekreacijo</orange>.",
+    "infoHeader": "Naši podatki",
+    "nastanitve": "Nastanitve so sodobno opremljeni in vključujejo vse, kar potrebujete za udobno bivanje.",
+    "lokacija": "Lokacija",
+    "slovenija": "Moravske Toplice, Prekmurje, Slovenija",
+    "stzgradb": "Število zgradb",
+    "stsob": "Število sob",
+    "bivalni": "Bivalni prostor",
+    "restavracije": "Restavracije",
+    "okrepcevalnice": "Okrepčevalnice",
+    "rezerviraj": "Rezerviraj zdaj",
+    "oddih": "Čarobni oddih v Prekmurju",
+    "oddihh2": "Sprostitev, razvajanje in užitek v naravi",
+    "oddihm1": "Naša vila v srcu Moravskih Toplic, obdana z neokrnjeno naravo, nudi popolno zatočišče za sprostitev. Prostorne sobe, sodobna oprema in čudoviti razgledi omogočajo prijetno bivanje v tesnem stiku s prekmursko pokrajino.",
+    "oddihm2": "V našem gostišču lahko uživate v izvrstnih prekmurskih specialitetah, ki združujejo tradicijo in lokalne sestavine. Okolica ponuja številne možnosti za rekreacijo in raziskovanje, od termalnih vrelcev do kolesarskih poti, ki vas bodo popeljale skozi slikovite vasi in vinograde.",
+    "vizija": "Vizija",
+    "vizijah2": "Naša vizija za navdihujoč prekmurski oddih",
+    "vizijap1": "Naša vizija je ustvariti zatočišče, kjer se sprostitev in naravna lepota Prekmurja združita v popolno izkušnjo. Verjamemo v trajnostni razvoj turizma, ki ohranja naravo in krepi povezanost z lokalno skupnostjo. Naši prostori ponujajo edinstveno kombinacijo udobja in prekmurske tradicije.",
+    "vizijap2": "Naša vila in gostišče sta zasnovana za goste, ki iščejo mir, sprostitev in povezanost z naravo. Terme Vivat, ki se nahajajo le nekaj metrov stran, ponujajo edinstvene termalne užitke, medtem ko kolesarske in sprehajalne poti v okolici omogočajo neposreden stik s čudovito prekmursko pokrajino.",
+    "vizijap3": "S posebnimi ponudbami za ljubitelje narave spodbujamo aktiven način življenja, bodisi z raziskovanjem okoliških vinogradov, sprehodi med polji ali obiskom term. Za vsakogar se najde aktivnost, ki dopolnjuje prekmurski oddih.",
+    "vizijap4": "Naša restavracija ponuja avtentične prekmurske jedi, pripravljene iz svežih, lokalnih sestavin. Podpiramo prekmurske pridelovalce in trajnostno pripravo hrane. Gostje lahko uživajo v okusih, ki so pristni in domači, hkrati pa v skladu z našo vizijo trajnosti.",
+    "rezervirajz": "Rezerviraj zdaj!",
+    "rezervirajh2": "Uživajte v nepozabnem oddihu",
+    "rezervirajp1": "Naša vila in gostišče ponujata idealno kombinacijo udobja, sprostitve in naravne lepote. Sodobno opremljene sobe in apartmaji vključujejo vse, kar potrebujete za brezskrben oddih. Vsak apartma je zasnovan z mislijo na vaše udobje – prostorne sobe, udobne postelje ter čudovit razgled na prekmursko pokrajino zagotavljajo popolno sprostitev.",
+    "rezervirajp2": "Le nekaj metrov stran od naše vile se nahajajo Terme Vivat, kjer se lahko prepustite termalnim užitkom. Okolica ponuja številne možnosti za raziskovanje narave, od kolesarskih poti med vinogradi do sprehodov po mirnih prekmurskih ravnicah. Ne zamudite priložnosti za nepozaben oddih – rezervirajte zdaj in doživite čarobnost Prekmurja s posebnimi ponudbami za vse naše goste.",
+    "vila": "Vila Šiftar",
+    "gostisce": "Gostišče Šiftar",
+    "at": "© Šiftar, vse pravice pidržane"
+  },
+  "GostiscePage": {
+    "message1": "Gostišče Šiftar",
+    "message2": "V Gostišču Šiftar pripravljamo bogate okuse Slovenije v naši gurmanski kuhinji. Vsaka jed je pripravljena po tradicionalnih receptih in z najkakovostnejšimi lokalnimi sestavinami, kar zagotavlja nepozabno kulinarično izkušnjo. Poleg tega ponujamo tudi tedenske malice, ki so popoln prigrizek za vaše vsakodnevne potrebe.",
+    "message3": "Preglej jedilnik",
+    "testimonialsHeader": "Mnenja naših gostov!",
+    "testimonial1": "\"Zelo dobro mesto, zelo dobra hrana, nizke cene, zaposleni so zelo prijazni in ustrežljivi, mesto ima parkirna mesta s streho in lahko še celo polnite električna vozila.\"",
+    "testimonial2": "\"Odlična hrana. Izjemno izdatna porcija. Ne naročite preveč in pridite lačni. Vse je 3-krat bolj okusno kot restavracija z zvezdico michiline. Cene so smejne. Ne moreš verjeti. Zelo priporočljivo! Najlepša hvala za vse!\"",
+    "testimonial3": "\"Priporočam vsakomur, ki se znajde v tem koncu Slovenije! Lahko samo na kosilo ali večerjo, prigrizek - njihove juhe in pečena jajčka so zakon. Super hrana, sobe, apartmaji in osebje - ne bo vam žal! 👍❤️🍀🤗\"",
+    "menuh": "Naš Meni",
+    "menup": "Z veseljem se dogovorimo za redno dostavo malic.",
+    "rezervirajz": "Rezerviraj zdaj!",
+    "title": "Ponudba Gostišča Šiftar",
+    "description": "Naše gostišče Šiftar ponuja vrhunsko kulinariko in udobno nastanitev, ki vam zagotavljata nepozabno izkušnjo.",
+    "subheading1": "Pogostitev",
+    "subheading1_description": "Uživajte v raznoliki ponudbi jedi, pripravljenih iz svežih in lokalnih sestavin.",
+    "subheading2": "Nastanitve",
+    "subheading2_description": "Sprostite se v naših udobnih sobah, opremljenih za vaš popoln oddih.",
+    "pn": "Preglej nastanitve",
+    "lokacija": "Lokacija",
+    "email": "E-naslov",
+    "telefon": "Telefon",
+    "obisci": "Obiščite nas"
+  },
+  "Navigation": {
+    "zapri": "Zapri",
+    "Rezervacija": "Rezervacija",
+    "Vila": "Vila Šiftar",
+    "Gostišče": "Gostišče Šiftar",
+    "about": "O nas",
+    "Kontakt": "Kontakt",
+    "Začetna": "Začetna stran",
+    "lp": "Prekmurje"
+  },
+  "contacts": {
+    "tagline": "Naša ponudba",
+    "heading": "Kontaktirajte nas",
+    "description": "Naše gostišče Šiftar ponuja vrhunsko kulinariko in udobno nastanitev, ki vam zagotavljata nepozabno izkušnjo.",
+    "email_title": "Email",
+    "email_description": "Pišite nam na naš email naslov.",
+    "email_link_label": "hello@relume.io",
+    "phone_title": "Telefon",
+    "phone_description": "Pokličite nas za več informacij.",
+    "phone_link_label": "+1 (555) 000-0000",
+    "office_title": "Lokacija",
+    "office_description": "Levstikova ulica 24, 9226 Moravske Toplice",
+    "office_button_title": "Pridobite navodila",
+    "pn": "Navodila za pot"
+  },
+  "prekmurje": {
+    "title": "Pridite in raziščite lepote Prekmurja in uživajte v termah.",
+    "subtitle": "Nahajamo se v bližini dveh term: Terme 3000 in Terme Vivat.",
+    "terme3000": {
+      "title": "Terme 3000",
+      "subtitle": "Ene največjih term v Sloveniji."
+    },
+    "termeVivat": {
+      "title": "Terme Vivat",
+      "subtitle": "Oddaljene le nekaj metrov stran od nas."
+    },
+    "Rotunda": "Rotunda",
+    "rotundaDescription": "Cerkev sv. Nikolaja v Selu stoji v vasi Selo na dnu selanske doline na vzhodnem Goričkem. Je edinstvena opečna romanska rotunda v Sloveniji. Rotunda (latinsko rotundus) je vsaka stavba krožnega tlorisa, včasih pokrita s kupolo. Lahko se nanaša tudi na okroglo sobo v zgradbi.",
+    "prekmurjeDescription": "Prekmurje je gričevnato - ravninska pokrajina. Geografsko je razdeljeno na tri območja: gričevnato področje severno od Murske Sobote je Goričko; jugozahodno proti Muri in Avstriji je Ravensko, jugovzhodno od Murske Sobote je Dolinsko. Nad Lendavo je panonski osamelec, manjše gričevnato področje Lendavske gorice. Goričko je spričo žive kulturne krajine bilo leta 2003 prepoznano kot naravna vrednota, ki jo je vredno ohranjati kot Krajinski park.",
+    "rezerviraj": "Rezerviraj zdaj",
+    "rheading": "Rezerviraj nastanitev že danes",
+    "rsubtitle": "Zagotovite si nepozaben obisk."
+  },
+  "layout132": {
+    "sections": [
+      {
+        "heading": "Tropski vrt by Ocean Orchids",
+        "description": "Doživite tropsko džunglo z več kot 900 eksotičnih primerkov približno 400 rastlinskih vrst."
+      },
+      {
+        "heading": "Stolp Vinarium Lendava",
+        "description": "Stolp Vinarium je razgledni stolp v Sloveniji, ki v višino meri 53,5 metra. Nahaja se v Dolgovaških Goricah, sredi Lendavskih goric nad Lendavo na nadmorski višini 302 metra."
+      },
+      {
+        "heading": "Grad Grad",
+        "description": "Grad Grad stoji v istoimenskem naselju Grad na Goričkem. Je najobsežnejši grajski kompleks na Slovenskem in ima po legendi 365 sob."
+      },
+      {
+        "heading": "Otok ljubezni",
+        "description": "Otok ljubezni je naravni otok na reki Muri v vasi Ižakovci, hkrati pa tudi priljubljena izletniška točka."
+      },
+      {
+        "heading": "Paviljon EXPANO",
+        "description": "Vstopite v izjemno arhitekturno stvaritev, v kateri je na domiseln in inovativen način predstavljeno Pomurje v malem."
+      },
+      {
+        "heading": "Doživljajski park Vulkanija",
+        "description": "Obiščite Doživljajski park Vulkanija in doživite izbruh vulkana tudi vi."
+      },
+      {
+        "heading": "Lončarska Vas Filovci",
+        "description": "Muzej na prostem Filovci, edinstvenem kraju v osrčju Prekmurja, kjer se prepletajo tradicionalna lončarska obrt."
+      },
+      {
+        "heading": "Bukovniško jezero",
+        "description": "Bukovniško jezero je akumulacijsko jezero, ki leži južno od naselja Bukovnica na jugovzhodu Goričkega."
+      },
+      {
+        "heading": "Pustolovski park Bukovniško jezero",
+        "description": "V bližini Bukovniškega jezera se nahaja pustolovski park, v katerem se najpogumnejši obiskovalci preizkusijo na 5 plezalnih poteh z 58 različnimi elementi."
+      }
+    ]
+  },
+  "bookingHero": {
+    "title": "Rezerviraj svoj oddih enostavno in hitro",
+    "subtitle": "Rezervacijo je najlažje narediti prek booking.com aplikacije, lahko pa nas tudi pokličete.",
+    "button": "Odpri booking aplikacijo"
+  },
+  "bookingInstructions": {
+    "title": "Navodila za rezervacijo s sistemom booking.com",
+    "description": "Sledite tem korakom, da uspešno rezervirate svojo nastanitev preko sistema booking.com.",
+    "step1": "Po kliku na gumb pod besedilom se odpre naša stran na sistemu booking.com.",
+    "step2": "Če podrsate navzdol lahko vidite podatke naših nastanitev.",
+    "step3": "Za pregled prostih terminov najprej izberite datume prijave in odjave ter kliknite na gumb \"razpoložljivost\".",
+    "step4": "Ko vnesete datume, se prikažejo razpoložljive sobe za izbrani datum.",
+    "step5": "Ko pritisnete gumb za rezervacijo, vnesite svoje podatke in dokončajte rezervacijo.",
+    "step6": "Lahko nas tudi kontaktirate."
+  },
+  "contactForm": {
+    "tagline": "Kontaktirajte nas",
+    "heading": "Stopite v stik z nami",
+    "description": "Imate vprašanje? Pišite nam in bomo z veseljem odgovorili.",
+    "email": "info@vašepodjetje.si",
+    "phone": "+386 1 234 5678",
+    "address": "Cesta 123, 1000 Ljubljana, Slovenija",
+    "button": {
+      "title": "Pošlji sporočilo"
+    },
+    "fields": {
+      "firstName": "Ime",
+      "lastName": "Priimek",
+      "email": "Email",
+      "phone": "Telefonska številka",
+      "chooseTopic": "Izberite temo",
+      "describeYou": "Poizvedba",
+      "message": "Sporočilo",
+      "acceptTerms": "Sprejemam pogoje"
+    },
+    "selectItems": {
+      "firstChoice": "Prva izbira",
+      "secondChoice": "Druga izbira",
+      "thirdChoice": "Tretja izbira"
+    },
+    "radioItems": {
+      "firstChoice": "Rezervacija sobe",
+      "secondChoice": "Rezervacija mize ali prostora v gostišču",
+      "thirdChoice": "Naročilo malice",
+      "other": "Drugo"
+    }
+  }
+}
