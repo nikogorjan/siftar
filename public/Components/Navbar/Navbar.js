@@ -98,9 +98,9 @@ const Navbar = () => {
           <a href={`/${locale}/prekmurje`} className="navigation-link">
             <p className="navigation">{t("lp")}</p>
           </a>
-          <div className="navigation-wrapper">
+          <a href={`/${locale}/o-nas`} className="navigation-wrapper">
             <p className="navigation">{t("about")}</p>
-          </div>
+          </a>
           <a href={`/${locale}/kontakt`} className="navigation-wrapper">
             <p className="navigation">{t("Kontakt")}</p>
           </a>

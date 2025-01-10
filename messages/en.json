@@ -181,5 +181,139 @@
       "thirdChoice": "Lunch Order",
       "other": "Other"
     }
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "description": "Welcome to our guesthouse, where family tradition and hospitality come together to provide you with a comfortable stay and unforgettable moments."
+  },
+  "ourProperties": {
+    "title": "Our Properties",
+    "description": "We offer a villa where you can rent a room, and an inn where we host our guests.",
+    "tabs": [
+      {
+        "heading": "Villa Shiftar",
+        "description": "We offer a comfortable villa where you can rent a room and enjoy a peaceful environment with top-notch services."
+      },
+      {
+        "heading": "Inn Shiftar",
+        "description": "Our friendly inn provides delicious cuisine and a pleasant atmosphere for all our guests."
+      }
+    ]
+  },
+  "testimonial18": {
+    "heading": "Customer Testimonials",
+    "description": "Over 200 reviews on the booking.com platform!",
+    "testimonials": [
+      {
+        "quote": "Comfortable room, very large bathroom, small balcony. We were very satisfied with the accommodation, abundant breakfast, the lady cooked eggs fresh for every guest, everything else was self-service. The Moravci are also great.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 1"
+        },
+        "name": "John Doe",
+        "position": "Director",
+        "companyName": "Company A",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Only a few hundred meters to the grocery store, a few hundred meters to the golf course, a few hundred meters to the thermal baths, nice neighborhood. The room is spacious with a large bathroom.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 2"
+        },
+        "name": "Jane Smith",
+        "position": "Marketing Manager",
+        "companyName": "Company B",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Great staff, great location :) We came with two children and parents, and they were so considerate that they cooked for the child as I requested :) Highly recommend and they are only 2 minutes away from Term 3000. We enjoyed ourselves a lot, and the food was great :)",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 3"
+        },
+        "name": "Mark Johnson",
+        "position": "Developer",
+        "companyName": "Company C",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Nice little room, comfortable with a small balcony. Well equipped and clean. Super 👍",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 4"
+        },
+        "name": "Emily Davis",
+        "position": "Teacher",
+        "companyName": "Company D",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "The apartment was large and comfortable, terrace, cleanliness was great, kitchen equipment, towels, heating and air conditioning - everything was well maintained and working.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 5"
+        },
+        "name": "Michael Brown",
+        "position": "Designer",
+        "companyName": "Company E",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Everything was perfect, clean and big room and bathroom, private parking and not to forget, they have amazing good food and the staff is very kind.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 6"
+        },
+        "name": "Sarah Wilson",
+        "position": "Manager",
+        "companyName": "Company F",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "We liked the well-maintained and spacious apartment. Friendly staff and a clean apartment. Quick responsiveness regarding the accommodation. Very close to Term 3000, shops, and local establishments. Peacefully arranged environment. Very good and delicious food in their restaurant at reasonable, family-friendly prices.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Customer Testimonial 6"
+        },
+        "name": "Sarah Wilson",
+        "position": "Manager",
+        "companyName": "Company F",
+        "numberOfStars": 5
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "How can I book a room at Villa Shiftar?",
+      "answer": "You can book a room at Villa Shiftar through the booking.com web application, via our website, or by calling our phone number."
+    },
+    {
+      "question": "What are the payment methods?",
+      "answer": "We accept credit cards (Visa, MasterCard, American Express), bank transfers, and cash upon arrival."
+    },
+    {
+      "question": "Is it possible to customize breakfast?",
+      "answer": "Yes, we can customize breakfast according to your dietary needs. Please inform us of any special requirements when booking."
+    },
+    {
+      "question": "What activities are available nearby?",
+      "answer": "Nearby you can enjoy thermal spas, a golf course, nature walks, and exploring the cultural landmarks of the Prekmurje region."
+    },
+    {
+      "question": "Is Wi-Fi free throughout the villa?",
+      "answer": "Yes, free Wi-Fi is available throughout the villa and inn."
+    },
+    {
+      "question": "Is parking available for guests?",
+      "answer": "Yes, we have free parking available for all our guests."
+    },
+    {
+      "question": "What are the options for organizing events?",
+      "answer": "Villa Shiftar and Inn Shiftar are ideal for organizing business meetings, weddings, birthday parties, and other events. Suitable spaces and equipment are available."
+    }
+  ],
+  "fq": {
+    "heading": "Frequently asked questions and answers"
   }
 }

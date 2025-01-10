@@ -181,5 +181,128 @@
       "thirdChoice": "Naročilo malice",
       "other": "Drugo"
     }
+  },
+  "aboutUs": {
+    "title": "O nas",
+    "description": "Dobrodošli pri nas, kjer se družinska tradicija in gostoljubje združujeta, da vam zagotavljata prijetno bivanje in nepozabne trenutke."
+  },
+  "ourProperties": {
+    "title": "Naši objekti",
+    "description": "Ponujamo vilo, kjer je mogoče najeti sobo, ter gostišče, kjer gostimo naše obiskovalce.",
+    "tabs": [
+      {
+        "heading": "Vila Šiftar",
+        "description": "Ponujamo udobno vilo, kjer lahko najetje sobe uživate v mirnem okolju in vrhunskih storitvah."
+      },
+      {
+        "heading": "Gostišče Šiftar",
+        "description": "Naš prijazni gostiščem omogočamo okusno kulinariko in prijetno vzdušje za vse naše goste."
+      }
+    ]
+  },
+  "testimonial18": {
+    "heading": "Mnenja naših strank",
+    "description": "Več kot 200 ocen na booking.com spletni aplikaciji!",
+    "testimonials": [
+      {
+        "quote": "Udobna soba, zelo velika kopalnica, majhen balkonček. Zelo sva bila zadovoljna z nastanitvijo, zajtrk obilen, gospa vsakemu gostu sproti speče jajčka, vse ostalo samopostrežno. Moravci pa itak zakon.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 1"
+        },
+        "name": "Janez Novak",
+        "position": "Direktor",
+        "companyName": "Podjetje A",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Le nekaj sto metrov do živilske trgovine, nekaj sto metrov do golf igrišča, nekaj sto metrov do toplic, lepa soseska. Soba je prostorna z veliko kopalnico.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 2"
+        },
+        "name": "Ana Kovač",
+        "position": "Marketing Manager",
+        "companyName": "Podjetje B",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Super osebje, super lokacija :) Prišli smo z dvema otrokoma in starši, še toliko so bili organizirani, da so otročku skuhali kar sem jih prosila :) Zelo priporočam in od Term 3000 so le 2 minutke oddaljeni. Mi smo zelo uživali, in super za jest :)",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 3"
+        },
+        "name": "Marko Petrič",
+        "position": "Razvijalec",
+        "companyName": "Podjetje C",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Lepa sobica, udobna z majhnim balkonom. Dobro opremljeno in čisto. Super 👍",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 4"
+        },
+        "name": "Maja Horvat",
+        "position": "Učiteljica",
+        "companyName": "Podjetje D",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Apartma je bil velik in udoben, terasa, čistoča je bila super, oprema v kuhinji, brisače, gretje in klime - vse dobro ohranjeno in delujoče.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 5"
+        },
+        "name": "Luka Mlakar",
+        "position": "Projektant",
+        "companyName": "Podjetje E",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Všeč nam je bil urejen apartma,prostoren.Prijazno osebje, čistoča apartmaja.Hitra odzivnost glede nastanitve.Dosti blizu Term 3000,trgovine,lokalov.Mirno urejeno okolje . Zelo dobra okusna hrana v njihovi restavraciji z normalnimi dostopnimi cenami za družino.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Mnenje stranke 5"
+        },
+        "name": "Luka Mlakar",
+        "position": "Projektant",
+        "companyName": "Podjetje E",
+        "numberOfStars": 5
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kako lahko rezerviram sobo v Vili Šiftar?",
+      "answer": "Sobe v Vili Šiftar lahko rezervirate preko booking.com spletne aplikacije, preko naše spletne strani ali pokličete na našo telefonsko številko."
+    },
+    {
+      "question": "Kakšni so načini plačila?",
+      "answer": "Sprejemamo kreditne kartice (Visa, MasterCard, American Express), bančne prenose in gotovino ob prihodu."
+    },
+    {
+      "question": "Ali je možna prilagoditev zajtrka?",
+      "answer": "Da, lahko prilagodimo zajtrk glede na vaše prehranske potrebe. Prosimo, obvestite nas o posebnih zahtevah ob rezervaciji."
+    },
+    {
+      "question": "Kakšne aktivnosti so na voljo v bližini?",
+      "answer": "V bližini lahko uživate v termah, golf igrišču, sprehodih po naravi ter raziskovanju kulturnih znamenitosti Prekmurske regije."
+    },
+    {
+      "question": "Ali je Wi-Fi v celotni vili brezplačen?",
+      "answer": "Da, brezplačen Wi-Fi je na voljo v celotni vili in gostišču."
+    },
+    {
+      "question": "Ali je parkirišče na voljo gostom?",
+      "answer": "Da, na voljo imamo brezplačno parkirišče za vse naše goste."
+    },
+    {
+      "question": "Kakšne so možnosti za organizacijo dogodkov?",
+      "answer": "Vili Šiftar in Gostišče Šiftar sta idealna za organizacijo poslovnih sestankov, porok, rojstnodnevnih zabav in drugih dogodkov. Na voljo so ustrezne prostornine in oprema."
+    }
+  ],
+  "fq": {
+    "heading": "Popsta vprašanja in odgovori"
   }
 }

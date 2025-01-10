@@ -181,5 +181,139 @@
       "thirdChoice": "Mittagessen bestellen",
       "other": "Andere"
     }
+  },
+  "aboutUs": {
+    "title": "Über uns",
+    "description": "Willkommen bei uns, wo Familientradition und Gastfreundschaft zusammenkommen, um Ihnen einen komfortablen Aufenthalt und unvergessliche Momente zu bieten."
+  },
+  "ourProperties": {
+    "title": "Unsere Objekte",
+    "description": "Wir bieten eine Villa an, in der Sie ein Zimmer mieten können, sowie ein Gasthaus, in dem wir unsere Gäste beherbergen.",
+    "tabs": [
+      {
+        "heading": "Villa Shiftar",
+        "description": "Wir bieten eine komfortable Villa an, in der Sie ein Zimmer mieten können und eine ruhige Umgebung mit erstklassigen Dienstleistungen genießen."
+      },
+      {
+        "heading": "Gasthaus Shiftar",
+        "description": "Unser freundliches Gasthaus bietet köstliche Küche und eine angenehme Atmosphäre für alle unsere Gäste."
+      }
+    ]
+  },
+  "testimonial18": {
+    "heading": "Kundenbewertungen",
+    "description": "Über 200 Bewertungen auf der booking.com Plattform!",
+    "testimonials": [
+      {
+        "quote": "Komfortables Zimmer, sehr großes Badezimmer, kleiner Balkon. Wir waren sehr zufrieden mit der Unterkunft, reichliches Frühstück, die Dame hat für jeden Gast frisch Eier gekocht, alles andere war Selbstbedienung. Die Moravci sind auch großartig.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 1"
+        },
+        "name": "Johann Müller",
+        "position": "Direktor",
+        "companyName": "Firma A",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Nur ein paar hundert Meter zum Lebensmittelgeschäft, ein paar hundert Meter zum Golfplatz, ein paar hundert Meter zu den Thermalbädern, schöne Nachbarschaft. Das Zimmer ist geräumig mit einem großen Badezimmer.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 2"
+        },
+        "name": "Anna Schmidt",
+        "position": "Marketing Managerin",
+        "companyName": "Firma B",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Tolles Personal, tolle Lage :) Wir kamen mit zwei Kindern und Eltern, und sie waren so rücksichtsvoll, dass sie für das Kind kochten, wie ich es erbeten hatte :) Ich kann es sehr empfehlen und sie sind nur 2 Minuten von den Term 3000 entfernt. Wir hatten sehr viel Spaß und das Essen war großartig :)",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 3"
+        },
+        "name": "Markus Becker",
+        "position": "Entwickler",
+        "companyName": "Firma C",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Schönes kleines Zimmer, komfortabel mit einem kleinen Balkon. Gut ausgestattet und sauber. Super 👍",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 4"
+        },
+        "name": "Maria Fischer",
+        "position": "Lehrerin",
+        "companyName": "Firma D",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Die Wohnung war groß und komfortabel, Terrasse, Sauberkeit war großartig, Küchenausstattung, Handtücher, Heizung und Klimaanlage - alles war gut gepflegt und funktionierte.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 5"
+        },
+        "name": "Lukas Schneider",
+        "position": "Designer",
+        "companyName": "Firma E",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Alles war perfekt, sauberes und großes Zimmer und Badezimmer, privater Parkplatz und nicht zu vergessen, sie haben erstaunlich gutes Essen und das Personal ist sehr freundlich.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 6"
+        },
+        "name": "Sara Wagner",
+        "position": "Managerin",
+        "companyName": "Firma F",
+        "numberOfStars": 5
+      },
+      {
+        "quote": "Wir mochten die gut gepflegte und geräumige Wohnung. Freundliches Personal und eine saubere Wohnung. Schnelle Reaktionsfähigkeit bezüglich der Unterkunft. Sehr nah an den Termen 3000, Geschäften und Lokalen. Ruhig gelegenes Umfeld. Sehr gutes und leckeres Essen in ihrem Restaurant zu normalen, familienfreundlichen Preisen.",
+        "avatar": {
+          "src": "https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg",
+          "alt": "Kundenbewertung 6"
+        },
+        "name": "Sara Wagner",
+        "position": "Managerin",
+        "companyName": "Firma F",
+        "numberOfStars": 5
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Wie kann ich ein Zimmer in der Villa Shiftar buchen?",
+      "answer": "Zimmer in der Villa Shiftar können Sie über die booking.com-Webanwendung, über unsere Website oder telefonisch buchen."
+    },
+    {
+      "question": "Welche Zahlungsmethoden werden akzeptiert?",
+      "answer": "Wir akzeptieren Kreditkarten (Visa, MasterCard, American Express), Banküberweisungen und Barzahlung bei Ankunft."
+    },
+    {
+      "question": "Ist eine Anpassung des Frühstücks möglich?",
+      "answer": "Ja, wir können das Frühstück entsprechend Ihren diätetischen Bedürfnissen anpassen. Bitte informieren Sie uns bei der Buchung über besondere Anforderungen."
+    },
+    {
+      "question": "Welche Aktivitäten sind in der Nähe verfügbar?",
+      "answer": "In der Nähe können Sie Thermen genießen, einen Golfplatz nutzen, Naturspaziergänge unternehmen und die kulturellen Sehenswürdigkeiten der Prekmurje-Region erkunden."
+    },
+    {
+      "question": "Ist das WLAN in der gesamten Villa kostenlos?",
+      "answer": "Ja, kostenloses WLAN ist in der gesamten Villa und im Gasthaus verfügbar."
+    },
+    {
+      "question": "Ist ein Parkplatz für Gäste verfügbar?",
+      "answer": "Ja, wir haben kostenlose Parkplätze für alle unsere Gäste."
+    },
+    {
+      "question": "Welche Optionen gibt es zur Organisation von Veranstaltungen?",
+      "answer": "Die Villa Shiftar und das Gasthaus Shiftar sind ideal für die Organisation von Geschäftstreffen, Hochzeiten, Geburtstagsfeiern und anderen Veranstaltungen. Geeignete Räume und Ausstattung sind verfügbar."
+    }
+  ],
+  "fq": {
+    "heading": "Häufig gestellte Fragen und Antworten"
   }
 }
