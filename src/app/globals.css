@@ -856,6 +856,14 @@ footer {
   font-size: 48px;
 }
 
+.small-gap {
+  gap: 4px;
+}
+
+.w2 {
+  width: 24px;
+}
+
 .i4ewOd-pzNkMb-haAclf {
   display: none !important;
 }
@@ -884,6 +892,33 @@ footer {
 
 .break-inside-avoid {
   break-inside: avoid;
+}
+
+.end {
+  align-items: end;
+}
+
+.pys {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.sticky-item-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 2rem;
+  width: 100%;
+}
+
+.max-w-xxl {
+  max-width: 1080px;
+}
+
+@media (max-width: 1600px) {
+  .sticky-item-grid-4 {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    width: 100%;
+  }
 }
 
 @media (max-width: 1000px) {
@@ -1067,7 +1102,72 @@ footer {
   columns: 3;
 }
 
+.uncommon-p {
+  padding-top: 0rem;
+}
+
+.uncommon-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  row-gap: 0rem;
+}
+
+.sticky {
+  position: sticky;
+}
+
+.sticky-text {
+  position: sticky;
+  top: 0px;
+  row-gap: 0px;
+}
+
+.text-flex {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.stickycarousel {
+  position: sticky;
+  top: 0px;
+  display: flex;
+  justify-content: start;
+  background-color: #fbfbfb;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  height: 100vh;
+}
+
+.mr-text {
+  margin-right: 5rem;
+  margin-left: 5vw;
+  margin-right: 5%;
+  max-width: 35rem;
+}
+
+.imgh {
+  height: 80vh;
+  overflow: hidden;
+}
+
+.hidden-image {
+  display: block;
+}
+
 @media (max-width: 992px) {
+  .sticky-item-grid-4 {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    width: 100%;
+  }
+  .mr-text {
+    margin-right: 3rem;
+  }
   .pb16 {
     padding-bottom: 6rem;
   }
@@ -1079,6 +1179,47 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .hidden-image {
+    display: none;
+  }
+
+  .sticky-item-grid-4 {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    width: 100%;
+  }
+
+  .mr-text {
+    margin-right: 0rem;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .stickycarousel {
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .text-flex {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    flex-direction: column;
+  }
+  .sticky-text {
+    position: static;
+  }
+
+  .uncommon-grid {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    row-gap: 4rem;
+  }
+
+  .uncommon-p {
+    padding-top: 6rem;
+  }
+
   .test18 {
     column-gap: 32px;
     columns: 1;

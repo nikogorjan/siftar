@@ -1,0 +1,447 @@
+/* Base Classes */
+
+/* Overflow Hidden */
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/* Padding X [5%] */
+.px-\[5\%\] {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* Padding Y 16 */
+.py-16 {
+  padding-top: 4rem; /* Tailwind py-16 */
+  padding-bottom: 4rem;
+}
+
+/* Margin Bottom 12 */
+.mb-12 {
+  margin-bottom: 3rem; /* Tailwind mb-12 */
+}
+
+/* Width Full */
+.w-full {
+  width: 100%;
+}
+
+/* Max Width Large */
+.max-w-lg {
+  max-width: 32rem; /* Tailwind max-w-lg */
+}
+
+/* Margin Bottom 5 */
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+/* Text 5XL */
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+/* Font Bold */
+.font-bold {
+  font-weight: 700;
+}
+
+/* Relative Positioning */
+.relative {
+  position: relative;
+}
+
+/* Padding Bottom 20 */
+.pb-20 {
+  padding-bottom: 5rem;
+}
+
+/* Margin Left 0 */
+.ml-0 {
+  margin-left: 0;
+}
+
+/* Padding Left 0 */
+.pl-0 {
+  padding-left: 0;
+}
+
+/* Absolute Positioning */
+.absolute {
+  position: absolute;
+}
+
+/* Bottom 0 */
+.bottom-0 {
+  bottom: 0;
+}
+
+/* Display Flex */
+.flex {
+  display: flex;
+}
+
+/* Items Center */
+.items-center {
+  align-items: center;
+}
+
+/* Justify Between */
+.justify-between {
+  justify-content: space-between;
+}
+
+/* Margin Top 5 */
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+/* Items Start */
+.items-start {
+  align-items: flex-start;
+}
+
+/* Justify Start */
+.justify-start {
+  justify-content: flex-start;
+}
+
+/* Inline Block */
+.inline-block {
+  display: inline-block;
+}
+
+/* Rounded Full */
+.rounded-full {
+  border-radius: 9999px;
+}
+
+/* Background Black */
+.bg-black {
+  background-color: #000;
+}
+
+/* Background Neutral Light */
+.bg-neutral-light {
+  background-color: #f5f5f5; /* Adjust based on your theme */
+}
+
+/* Items End */
+.items-end {
+  align-items: flex-end;
+}
+
+/* Justify End */
+.justify-end {
+  justify-content: flex-end;
+}
+
+/* Gap 2 */
+.gap-2 {
+  gap: 0.5rem;
+}
+
+/* Static Positioning */
+.static {
+  position: static;
+}
+
+/* Right 0 */
+.right-0 {
+  right: 0;
+}
+
+/* Top 0 */
+.top-0 {
+  top: 0;
+}
+
+/* Margin X [3px] */
+.mx-\[3px\] {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+/* Size 2 */
+.size-2 {
+  width: 0.5rem; /* Tailwind w-2 */
+  height: 0.5rem; /* Tailwind h-2 */
+}
+
+/* Size 6 */
+.size-6 {
+  width: 1.5rem; /* Tailwind w-6 */
+  height: 1.5rem; /* Tailwind h-6 */
+}
+
+/* Size 12 */
+.size-12 {
+  width: 3rem; /* Tailwind w-12 */
+  height: 3rem; /* Tailwind h-12 */
+}
+
+/* Size 14 */
+.size-14 {
+  width: 3.5rem; /* Custom size */
+  height: 3.5rem; /* Custom size */
+}
+
+/* Max Height 12 */
+.max-h-12 {
+  max-height: 3rem; /* Tailwind max-h-12 */
+}
+
+/* Min Height 14 */
+.min-h-14 {
+  min-height: 3.5rem; /* Custom size */
+}
+
+/* Min Width 14 */
+.min-w-14 {
+  min-width: 3.5rem; /* Custom size */
+}
+
+/* Object Cover */
+.object-cover {
+  object-fit: cover;
+}
+
+/* Margin Bottom 4 */
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+/* Hidden */
+.hidden {
+  display: none;
+}
+
+/* Width 1px */
+.w-px {
+  width: 1px;
+}
+
+/* Self Stretch */
+.self-stretch {
+  align-self: stretch;
+}
+
+/* Background Alternative */
+.bg-background-alternative {
+  background-color: #e5e7eb; /* Adjust based on your theme */
+}
+
+/* Text MD */
+.text-md {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Leading [1.4] */
+.leading-\[1\.4\] {
+  line-height: 1.4;
+}
+
+/* Justify Center */
+.justify-center {
+  justify-content: center;
+}
+
+/* Align Items Center */
+.items-center {
+  align-items: center;
+}
+
+/* Align Items Flex Start */
+.items-start {
+  align-items: flex-start;
+}
+
+/* Align Items Flex End */
+.items-end {
+  align-items: flex-end;
+}
+
+/* Display Block */
+.block {
+  display: block;
+}
+
+/* Display None */
+.none {
+  display: none;
+}
+
+/* Flex Column */
+.flex-col {
+  flex-direction: column;
+}
+
+/* Flex Row */
+.flex-row {
+  flex-direction: row;
+}
+
+/* Justify Start */
+.justify-start {
+  justify-content: flex-start;
+}
+
+/* Justify End */
+.justify-end {
+  justify-content: flex-end;
+}
+
+/* Font Size 7XL */
+.text-7xl {
+  font-size: 4.5rem;
+  line-height: 1;
+}
+
+/* Font Size 8XL */
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
+/* Font Size XL */
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+/* Font Weight Semibold */
+.font-semibold {
+  font-weight: 600;
+}
+
+/* Gap 5 */
+.gap-5 {
+  gap: 1.25rem;
+}
+
+/* Gap 4 */
+.gap-4 {
+  gap: 1rem;
+}
+
+/* Transition Translate Y 0 */
+.-translate-y-0 {
+  transform: translateY(0);
+}
+
+/* Responsive Classes */
+
+/* Medium Screens (≥768px) */
+@media (min-width: 768px) {
+  /* Padding Y 24 */
+  .md\:py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  /* Margin Bottom 18 */
+  .md\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  /* Margin Bottom 6 */
+  .md\:mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  /* Text 7XL */
+  .md\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
+  }
+
+  /* Text MD */
+  .md\:text-md {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  /* Padding Bottom 24 */
+  .md\:pb-24 {
+    padding-bottom: 6rem;
+  }
+
+  /* Gap 4 */
+  .md\:gap-4 {
+    gap: 1rem;
+  }
+
+  /* Flex Row */
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  /* Items Center */
+  .md\:items-center {
+    align-items: center;
+  }
+
+  /* Text Left */
+  .md\:text-left {
+    text-align: left;
+  }
+
+  /* Margin Top 8 */
+  .md\:mt-8 {
+    margin-top: 2rem;
+  }
+
+  /* Width Auto */
+  .md\:w-auto {
+    width: auto;
+  }
+
+  /* Margin Bottom 8 */
+  .md\:mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  /* Display Block */
+  .md\:block {
+    display: block;
+  }
+
+  /* Text XL */
+  .md\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+}
+
+/* Large Screens (≥1024px) */
+@media (min-width: 1024px) {
+  /* Padding Y 28 */
+  .lg\:py-28 {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+
+  /* Margin Bottom 20 */
+  .lg\:mb-20 {
+    margin-bottom: 5rem;
+  }
+
+  /* Text 8XL */
+  .lg\:text-8xl {
+    font-size: 6rem;
+    line-height: 1;
+  }
+
+  /* Basis 1/2 */
+  .lg\:basis-1\/2 {
+    flex-basis: 50%;
+  }
+
+  /* Padding Right 16 */
+  .lg\:pr-16 {
+    padding-right: 4rem;
+  }
+}

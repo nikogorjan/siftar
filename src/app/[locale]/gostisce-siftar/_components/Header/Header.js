@@ -1,9 +1,17 @@
+"use client";
 import "../../../../../../dist/output.css";
 import { useTranslations } from "next-intl";
 
 export const Header36 = () => {
   const t = useTranslations("GostiscePage");
-
+  const handleScrollToMenu = () => {
+    const element = document.getElementById("restaurant-menu");
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    } else {
+      console.warn('Element with ID "restaurant-menu" not found.');
+    }
+  };
   return (
     <section
       id="relume"
@@ -12,7 +20,7 @@ export const Header36 = () => {
       <div className="mx-[5%] sm:max-w-md md:justify-self-start lg:ml-[5vw] lg:mr-20 lg:justify-self-end">
         <h1 className="info-header mtb">{t("message1")}</h1>
         <p className="md:text-md neue gray-text">{t("message2")}</p>
-        <div className="res-now-row">
+        <div className="res-now-row" onClick={handleScrollToMenu}>
           <p className="res-p">{t("message3")}</p>
           <img
             alt="logo"

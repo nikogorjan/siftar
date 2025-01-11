@@ -315,5 +315,24 @@
   ],
   "fq": {
     "heading": "Frequently asked questions and answers"
+  },
+  "vsiftar": {
+    "heading": "Villa Šiftar",
+    "subheading": "We offer three rooms of different sizes to suit your needs",
+    "sobe": "Rooms",
+    "sd": "Check out our rooms.",
+    "druzinska": "Family Room",
+    "dz": "Two double beds.",
+    "spartma": "Apartment",
+    "sprt": "Two double beds and one single bed.",
+    "dvoposteljna": "Double Room with Jacuzzi",
+    "otr": "A free baby crib is available.",
+    "stg": "Number of Guests",
+    "pvs": "Villa Šiftar's Offerings",
+    "js": "Šiftar Guesthouse Menu"
+  },
+  "str": {
+    "stranke": "Customer Reviews",
+    "strankedescription": "More than 200 ratings on the booking.com web application!"
   }
 }

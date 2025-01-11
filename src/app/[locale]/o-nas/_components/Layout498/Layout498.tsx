@@ -13,6 +13,7 @@ import type { ButtonProps } from "@relume_io/relume-ui";
 import { RxChevronRight } from "react-icons/rx";
 import { FaCirclePlay } from "react-icons/fa6";
 import { useTranslations } from "next-intl";
+import useNavigateToSubpage from "../../../../../utils/useNavigateToSubpage";
 
 type ImageProps = {
   src: string;
@@ -93,6 +94,14 @@ export const Layout498 = (props: Layout498Props) => {
   };
 
   const [activeTab, setActiveTab] = useState(0);
+
+  const navigateToSubpage = useNavigateToSubpage();
+
+  // Example function to handle navigation
+  const handleNavigation1 = () => {
+    const subpage = "kontakt"; // This can be dynamically determined
+    navigateToSubpage(subpage);
+  };
 
   return (
     <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
@@ -191,7 +200,7 @@ export const Layout498 = (props: Layout498Props) => {
                 ))}
               </div>
             </div>
-            <div className="res-now-contact">
+            <div className="res-now-contact" onClick={handleNavigation1}>
               <p className="res-p">{tt("heading")}</p>
               <img
                 alt="logo"

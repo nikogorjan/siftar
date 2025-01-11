@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { useTranslations } from "next-intl";
 
@@ -22,14 +24,20 @@ export const Layout3 = (props: Layout3Props) => {
   };
   const t = useTranslations("bookingInstructions"); // Uporaba ključa "prekmurje" za prevode
   const p = useTranslations("bookingHero"); // Uporaba ključa "prekmurje" za prevode
-
+  const handleBookingClick = () => {
+    window.open(
+      "https://www.booking.com/hotel/si/vila-siftar.sl.html?",
+      "_blank",
+      "noopener,noreferrer"
+    );
+  };
   return (
     <section id="relume" className="px-[5%]">
       <div className="container">
         <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
           <div>
             <p className="mb-5 text-6xl md:mb-6 neue ">{t("step1")}</p>
-            <div className="res-now-contact">
+            <div className="res-now-contact" onClick={handleBookingClick}>
               <p className="res-p">{p("button")}</p>
               <img
                 alt="logo"

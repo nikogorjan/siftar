@@ -5,6 +5,8 @@ import "../../../globals.css";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
+import { useLocale } from "next-intl";
+import useNavigateToSubpage from "../../../../utils/useNavigateToSubpage";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -144,6 +146,8 @@ const Hero = () => {
       },
     });
   }, []);
+
+  const locale = useLocale();
 
   return (
     <section>

@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@relume_io/relume-ui";
 import type { ButtonProps } from "@relume_io/relume-ui";
 import "../../../../../../dist/output.css";
@@ -20,7 +21,13 @@ export const Header47 = (props: Header47Props) => {
   };
 
   const t = useTranslations("bookingHero"); // Uporaba ključa "prekmurje" za prevode
-
+  const handleBookingClick = () => {
+    window.open(
+      "https://www.booking.com/hotel/si/vila-siftar.sl.html?",
+      "_blank",
+      "noopener,noreferrer"
+    );
+  };
   return (
     <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
       <div className="container">
@@ -39,6 +46,7 @@ export const Header47 = (props: Header47Props) => {
                   key={index}
                   {...button}
                   className="neue-semi-bold gray-border hover-button"
+                  onClick={handleBookingClick}
                 >
                   <div className="res-now-booking">
                     <p className="res-p">{t("button")}</p>

@@ -6,6 +6,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
 import { useTranslations } from "next-intl";
+import useNavigateToSubpage from "../../../../utils/useNavigateToSubpage";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -198,6 +199,14 @@ const Stats = () => {
 
   const t = useTranslations("HomePage");
 
+  const navigateToSubpage = useNavigateToSubpage();
+
+  // Example function to handle navigation
+  const handleNavigation = () => {
+    const subpage = "rezervacija"; // This can be dynamically determined
+    navigateToSubpage(subpage);
+  };
+
   return (
     <section>
       <div className="stats-main">
@@ -303,7 +312,7 @@ const Stats = () => {
                 <div className="line" ref={whiteLine7Ref}></div>
               </div>
 
-              <div className="res-now-row">
+              <div className="res-now-row" onClick={handleNavigation}>
                 <p className="res-p">{t("rezerviraj")}</p>
                 <img
                   alt="logo"

@@ -30,11 +30,13 @@ export const Layout94 = (props: Layout94Props) => {
   };
 
   const t = useTranslations("GostiscePage");
+  const tt = useTranslations("vsiftar");
+
   const navigateToSubpage = useNavigateToSubpage();
 
   // Example function to handle navigation
   const handleNavigation1 = () => {
-    const subpage = "vila-siftar"; // This can be dynamically determined
+    const subpage = "gostisce-siftar"; // This can be dynamically determined
     navigateToSubpage(subpage);
   };
 
@@ -43,7 +45,7 @@ export const Layout94 = (props: Layout94Props) => {
       <div className="container">
         <div className="mb-12 grid grid-cols-1 items-start justify-between gap-x-12 gap-y-5 md:mb-18 md:grid-cols-2 md:gap-x-12 md:gap-y-8 lg:mb-20 lg:gap-x-20">
           <div>
-            <h3 className="info-header mtb">{t("title")}</h3>
+            <h3 className="info-header mtb">{tt("pvs")}</h3>
           </div>
           <div>
             <p className="mb-6 md:mb-8 md:text-md neue gray-text">
@@ -73,7 +75,7 @@ export const Layout94 = (props: Layout94Props) => {
               </div>
             </div>
             <div className="res-now-row" onClick={handleNavigation1}>
-              <p className="res-p">{t("pn")}</p>
+              <p className="res-p">{tt("js")}</p>
               <img
                 alt="logo"
                 className="arrow-r"
@@ -97,7 +99,7 @@ export const Layout94Defaults: Props = {
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
   image: {
-    src: "/Images/hisa7.webp",
+    src: "/Images/hisa.webp",
     alt: "Relume placeholder image",
   },
   subHeadings: [

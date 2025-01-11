@@ -70,7 +70,7 @@ export const Faq3 = (props: Faq3Props) => {
     ...props,
   };
   return (
-    <section id="relume" className="px-[5%]">
+    <section id="relume" className="px-[5%] pys">
       <div className="container grid grid-cols-1 gap-y-12 md:grid-cols-2 md:gap-x-12 lg:grid-cols-[.75fr,1fr] lg:gap-x-20">
         <div>
           <h2 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold ">

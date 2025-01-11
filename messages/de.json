@@ -315,5 +315,24 @@
   ],
   "fq": {
     "heading": "Häufig gestellte Fragen und Antworten"
+  },
+  "vsiftar": {
+    "heading": "Villa Šiftar",
+    "subheading": "Wir bieten drei Zimmer in verschiedenen Größen an, um Ihren Bedürfnissen gerecht zu werden",
+    "sobe": "Zimmer",
+    "sd": "Schauen Sie sich unsere Zimmer an.",
+    "druzinska": "Familienzimmer",
+    "dz": "Zwei Doppelbetten.",
+    "spartma": "Apartment",
+    "sprt": "Zwei Doppelbetten und ein Einzelbett.",
+    "dvoposteljna": "Doppelzimmer mit Jacuzzi",
+    "otr": "Ein kostenloses Babybett ist verfügbar.",
+    "stg": "Anzahl der Gäste",
+    "pvs": "Villa Šiftars Angebote",
+    "js": "Speisekarte des Gasthaus Šiftar"
+  },
+  "str": {
+    "stranke": "Kundenbewertungen",
+    "strankedescription": "Mehr als 200 Bewertungen auf der booking.com-Webanwendung!"
   }
 }

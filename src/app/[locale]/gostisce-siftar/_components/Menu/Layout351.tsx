@@ -72,7 +72,7 @@ export const RestaurantMenu = () => {
   const t = useTranslations("GostiscePage");
 
   return (
-    <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
+    <section id="restaurant-menu" className="px-[5%] py-16 md:py-24 lg:py-28">
       <div className="container">
         <div className="rb-12 mb-12 w-full max-w-lg md:mb-18 lg:mb-20">
           <h2 className="info-header mtb">{t("menuh")}</h2>

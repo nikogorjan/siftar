@@ -1,7 +1,8 @@
-import { Button } from "@relume_io/relume-ui";
+"use client";
 import type { ButtonProps } from "@relume_io/relume-ui";
 import React from "react";
 import { useTranslations } from "next-intl";
+import useNavigateToSubpage from "../../../../../utils/useNavigateToSubpage";
 
 type Props = {
   heading: string;
@@ -18,6 +19,13 @@ export const Cta19 = (props: Cta19Props) => {
     ...props,
   };
   const t = useTranslations("prekmurje"); // Uporaba ključa za prevode sekcij
+  const navigateToSubpage = useNavigateToSubpage();
+
+  // Example function to handle navigation
+  const handleNavigation1 = () => {
+    const subpage = "rezervacija"; // This can be dynamically determined
+    navigateToSubpage(subpage);
+  };
 
   return (
     <section id="relume" className="relative px-[5%] py-16 md:py-24 lg:py-28">
@@ -27,7 +35,7 @@ export const Cta19 = (props: Cta19Props) => {
             {t("rheading")}
           </h2>
           <p className="md:text-md gray-text neue">{t("rsubtitle")}</p>
-          <div className="res-now-contact">
+          <div className="res-now-contact" onClick={handleNavigation1}>
             <p className="res-p">{t("rezerviraj")}</p>
             <img
               alt="logo"

@@ -99,8 +99,7 @@ export const Contact14 = (props: Contact14Props) => {
     ...props,
   };
 
-  const destination =
-    "GOSTIŠČE ŠIFTAR Maja Šiftar Vučko s.p., Levstikova ulica 24, 9226 Moravske Toplice";
+  const destination = "Vila ŠIFTAR, Kratka ulica 1, 9226 Moravske Toplice";
 
   return (
     <section id="relume" className="px-[5%] py-16">
@@ -139,7 +138,7 @@ export const Contact14 = (props: Contact14Props) => {
               className="justify-self-end md:w-[321.6px] lg:w-auto"
             >
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1182.5483324806314!2d16.21506013422655!3d46.68616856084752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f3c008b481371%3A0x1a91ade78be39f70!2sLevstikova%20ulica%2024%2C%209226%20Moravske%20Toplice!5e0!3m2!1ssl!2ssi!4v1736429626617!5m2!1ssl!2ssi"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2736.973842643951!2d16.214777377463157!3d46.686517251057836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f3c009a4f9ce3%3A0x61c1019973cce493!2sVila%20%C5%A0IFTAR!5e0!3m2!1ssl!2ssi!4v1736495605777!5m2!1ssl!2ssi"
                 className="size-full h-[400px] object-cover md:h-[516px] iframe-size"
                 loading="lazy"
               ></iframe>

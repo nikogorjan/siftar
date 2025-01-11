@@ -304,5 +304,24 @@
   ],
   "fq": {
     "heading": "Popsta vprašanja in odgovori"
+  },
+  "vsiftar": {
+    "heading": "Vila Šiftar",
+    "subheading": "Ponujamo tri sobe različnih velikosti, prilagojene vašim potrebam",
+    "sobe": "Sobe",
+    "sd": "Poglej v naše sobe.",
+    "druzinska": "Družinska soba",
+    "dz": "Dve zakonski postelji.",
+    "spartma": "Apartma",
+    "sprt": "Dve zakonski postelji in ena enojna.",
+    "dvoposteljna": "Dvoposteljna soba s kadjo",
+    "otr": "Na voljo je brezplačna otroška postelja.",
+    "stg": "Število gostov",
+    "pvs": "Ponudba vile Šiftar",
+    "js": "Jedilnik gostišča Šiftar"
+  },
+  "str": {
+    "stranke": "Mnenja naših strank",
+    "strankedescription": "Več kot 200 ocen na booking.com spletni aplikaciji!"
   }
 }
