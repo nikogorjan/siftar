@@ -104,6 +104,7 @@ const getTestimonial18Defaults = (t: (key: string) => string): Props => ({
 
 export const Testimonial18 = (props: Testimonial18Props) => {
   const t = useTranslations("testimonial18");
+  const tt = useTranslations("str");
 
   const defaults = getTestimonial18Defaults(t);
 
@@ -116,10 +117,12 @@ export const Testimonial18 = (props: Testimonial18Props) => {
     <section id="relume" className="px-[5%]">
       <div className="container">
         <div className="mx-auto mb-12 w-full text-start md:mb-18 lg:mb-20 mb4">
-          <h1 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold">
-            {heading}
+          <h1 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold break-words">
+            {tt("stranke")}
           </h1>
-          <p className="md:text-md neue text-gray mb4">{description}</p>
+          <p className="md:text-md neue text-gray mb4">
+            {tt("strankedescription")}
+          </p>
         </div>
         <div className="columns-1 gap-x-8 md:columns-2 lg:columns-3 test18">
           {testimonials.map((testimonial, index) => (

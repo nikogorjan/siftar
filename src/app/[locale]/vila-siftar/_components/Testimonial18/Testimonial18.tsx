@@ -117,7 +117,7 @@ export const Testimonial18 = (props: Testimonial18Props) => {
     <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
       <div className="container">
         <div className="mx-auto mb-12 w-full text-start md:mb-18 lg:mb-20 mb4">
-          <h1 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold">
+          <h1 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold break-words">
             {tt("stranke")}
           </h1>
           <p className="md:text-md neue text-gray mb4">
