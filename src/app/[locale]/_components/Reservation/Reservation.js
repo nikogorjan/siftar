@@ -3,23 +3,11 @@
 import React from "react";
 import "../../../globals.css";
 import { useTranslations } from "next-intl";
-import useNavigateToSubpage from "../../../../utils/useNavigateToSubpage";
-
+import { useLocale } from "next-intl";
 const Reservation = () => {
   const t = useTranslations("HomePage");
 
-  const navigateToSubpage = useNavigateToSubpage();
-
-  // Example function to handle navigation
-  const handleNavigation1 = () => {
-    const subpage = "vila-siftar"; // This can be dynamically determined
-    navigateToSubpage(subpage);
-  };
-
-  const handleNavigation2 = () => {
-    const subpage = "gostisce-siftar"; // This can be dynamically determined
-    navigateToSubpage(subpage);
-  };
+  const locale = useLocale();
 
   return (
     <section className="resser">
@@ -36,13 +24,17 @@ const Reservation = () => {
           </div>
 
           <div className="rezervacija-row">
-            <div className="rezervacija-cell" onClick={handleNavigation1}>
-              <img alt="food1" className="res-img" src="/Images/hisa5.webp" />
-              <p className="za-p">{t("vila")}</p>
+            <div className="rezervacija-cell">
+              <a href={`/${locale}/vila-siftar`}>
+                <img alt="food1" className="res-img" src="/Images/hisa5.webp" />
+                <p className="za-p">{t("vila")}</p>
+              </a>
             </div>
-            <div className="rezervacija-cell" onClick={handleNavigation2}>
-              <img alt="food1" className="res-img" src="/Images/hisa7.webp" />
-              <p className="za-p">{t("gostisce")}</p>
+            <div className="rezervacija-cell">
+              <a href={`/${locale}/gostisce-siftar`}>
+                <img alt="food1" className="res-img" src="/Images/hisa7.webp" />
+                <p className="za-p">{t("gostisce")}</p>
+              </a>
             </div>
           </div>
         </div>
