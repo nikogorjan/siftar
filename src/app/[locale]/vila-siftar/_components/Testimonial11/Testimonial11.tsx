@@ -63,7 +63,7 @@ export const Testimonial11 = (props: Testimonial11Props) => {
     <section id="relume" className="overflow-hidden px-[5%] pb16">
       <div className="container">
         <div className="mb-12 w-full max-w-lg md:mb-18 lg:mb-20">
-          <h2 className="mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl neue-semi-bold">
+          <h2 className="mb3 text-6xl md:mb-6 md:text-9xl lg:text-10xl neue-semi-bold break-words">
             {t("sobe")}
           </h2>
           <p className="md:text-md">{t("sd")}</p>
@@ -142,6 +142,26 @@ export const Testimonial11 = (props: Testimonial11Props) => {
                   </div>
                 </div>
                 <p className="neue text-base">{t("otr")}</p>
+              </CarouselItem>
+              <CarouselItem className="pl-0 lg:basis-1/2 lg:pr-16">
+                <div className="mb-6 md:mb-8">
+                  <img
+                    src="/Images/vs6.jpg"
+                    alt=""
+                    className="size-full object-cover"
+                  />
+                </div>
+                <h3 className="mb-5 text-6xl font-bold md:mb-6 md:text-9xl lg:text-10xl neue">
+                  {t("ep")}
+                </h3>
+                <div className="flex items-center mb3">
+                  <p className="neue-semi-bold text-xl">{t("stg")}: </p>
+                  <div className="ml-2 flex items-center small-gap">
+                    <img src="/Images/user.svg" alt="" className="w2" />
+                    <img src="/Images/user.svg" alt="" className="w2" />
+                  </div>
+                </div>
+                <p className="neue text-base">{t("es")}</p>
               </CarouselItem>
             </CarouselContent>
             <div className="absolute bottom-0 flex w-full items-center justify-between">

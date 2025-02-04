@@ -66,25 +66,25 @@ const Food = () => {
             className="this-swiper"
           >
             <SwiperSlide>
-              <img alt="food1" className="food-img" src="/Images/f9.webp" />
+              <img alt="food1" className="food-img" src="/Images/f2.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food2" className="food-img" src="/Images/f2.webp" />
+              <img alt="food2" className="food-img" src="/Images/f1.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food3" className="food-img" src="/Images/f8.webp" />
+              <img alt="food3" className="food-img" src="/Images/f3.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food4" className="food-img" src="/Images/f1.webp" />
+              <img alt="food4" className="food-img" src="/Images/f4.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food5" className="food-img" src="/Images/f12.webp" />
+              <img alt="food5" className="food-img" src="/Images/f5.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food6" className="food-img" src="/Images/f11.webp" />
+              <img alt="food6" className="food-img" src="/Images/f6.png" />
             </SwiperSlide>
             <SwiperSlide>
-              <img alt="food7" className="food-img" src="/Images/f10.webp" />
+              <img alt="food7" className="food-img" src="/Images/f7.png" />
             </SwiperSlide>
           </Swiper>
         </div>

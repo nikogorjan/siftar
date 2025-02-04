@@ -68,12 +68,13 @@
     "tagline": "Our Offerings",
     "heading": "Contact Us",
     "description": "At Gostišče Šiftar, we provide top-notch cuisine and comfortable accommodations, ensuring an unforgettable experience.",
-    "email_link_label": "hello@relume.io",
+    "email_link_label": "maja.siftar76@gmail.com",
     "phone_title": "Phone",
     "phone_description": "Call us for more information.",
-    "phone_link_label": "+1 (555) 000-0000",
+    "phone_link_label": "+386 41-660-500",
     "office_title": "Location",
     "office_description": "Levstikova Street 24, 9226 Moravske Toplice",
+    "office_description1": "Kratka Street 1, 9226 Moravske Toplice",
     "office_button_title": "Get Directions",
     "pn": "Directions"
   },
@@ -154,9 +155,9 @@
     "tagline": "Get in Touch",
     "heading": "Contact Us",
     "description": "Have a question? Write to us and we will gladly respond.",
-    "email": "info@yourcompany.com",
-    "phone": "+1 (555) 123-4567",
-    "address": "123 Sample St, City, Country",
+    "email": "maja.siftar76@gmail.com",
+    "phone": "+386 41-660-500",
+    "address": "Kratka ulica 1, 9226 Moravske Toplice",
     "button": {
       "title": "Send Message"
     },
@@ -329,7 +330,9 @@
     "otr": "A free baby crib is available.",
     "stg": "Number of Guests",
     "pvs": "Villa Šiftar's Offerings",
-    "js": "Šiftar Guesthouse Menu"
+    "js": "Šiftar Guesthouse Menu",
+    "ep": "Single room",
+    "es": "We offer 6 single rooms; please contact us to make a reservation."
   },
   "str": {
     "stranke": "Customer Reviews",

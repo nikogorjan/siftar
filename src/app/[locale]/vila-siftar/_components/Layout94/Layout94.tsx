@@ -99,7 +99,7 @@ export const Layout94Defaults: Props = {
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
   image: {
-    src: "/Images/hisa.webp",
+    src: "/Images/vs2.png",
     alt: "Relume placeholder image",
   },
   subHeadings: [

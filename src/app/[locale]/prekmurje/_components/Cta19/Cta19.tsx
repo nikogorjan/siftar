@@ -44,7 +44,7 @@ export const Cta19 = (props: Cta19Props) => {
             />
           </div>
         </div>
-        <img alt="logo" className="w-full mt-6" src="/Images/hisa.webp" />
+        <img alt="logo" className="w-full mt-6" src="/Images/vs.png" />
       </div>
     </section>
   );

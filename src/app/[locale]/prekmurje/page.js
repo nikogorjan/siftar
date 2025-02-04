@@ -7,6 +7,7 @@ import { Layout90 } from "./_components/Layout90/Layout90";
 import { Layout42 } from "./_components/Layout42/Layout42";
 import { Layout132 } from "./_components/Layout132/Layout132";
 import { Cta19 } from "./_components/Cta19/Cta19";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

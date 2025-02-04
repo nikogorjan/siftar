@@ -60,7 +60,7 @@ export const Contact14 = (props: Contact14Props) => {
         description: t("email_description"),
         link: {
           label: t("email_link_label"),
-          url: "#",
+          url: "mailto:maja.siftar76@gmail.com",
         },
       },
       {
@@ -69,13 +69,13 @@ export const Contact14 = (props: Contact14Props) => {
         description: t("phone_description"),
         link: {
           label: t("phone_link_label"),
-          url: "#",
+          url: "tel:+38641660500",
         },
       },
       {
         icon: <BiMap className="size-8" />,
         title: t("office_title"),
-        description: t("office_description"),
+        description: t("office_description1"),
         button: {
           title: t("office_button_title"),
           variant: "link",

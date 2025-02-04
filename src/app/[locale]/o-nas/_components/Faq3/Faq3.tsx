@@ -80,7 +80,7 @@ export const Faq3 = (props: Faq3Props) => {
         <Accordion type="multiple">
           {questions.map((question, index) => (
             <AccordionItem key={index} value={`item-${index}`}>
-              <AccordionTrigger className="md:py-5 md:text-md neue-semi-bold">
+              <AccordionTrigger className="md:py-5 md:text-md neue">
                 {question.title}
               </AccordionTrigger>
               <AccordionContent className="md:pb-6 neue">

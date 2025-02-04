@@ -5,6 +5,7 @@ import LanguagesButton from "../../../../public/Components/languageButton/langua
 import { Contact6 } from "./_components/Contact6/Contact6";
 import { Layout363 } from "./_components/Layout363/Layout363";
 import { Layout94 } from "../vila-siftar/_components/Layout94/Layout94";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

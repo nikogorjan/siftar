@@ -52,7 +52,7 @@ const getLayout498Defaults = (t: (key: string) => string): Props => ({
       heading: t("tabs.0.heading"),
       description: t("tabs.0.description"),
       image: {
-        src: "/Images/his.webp",
+        src: "/Images/vs3.jpg",
         alt: "Relume placeholder image 1",
       },
     },
@@ -64,7 +64,7 @@ const getLayout498Defaults = (t: (key: string) => string): Props => ({
       heading: t("tabs.1.heading"),
       description: t("tabs.1.description"),
       image: {
-        src: "/Images/gos.webp",
+        src: "/Images/vs2.png",
         alt: "Relume placeholder image 3",
       },
     },

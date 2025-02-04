@@ -168,13 +168,13 @@ const Hero = () => {
             <img
               alt="logo"
               className="hero-img desktop"
-              src="/Images/hisa5.webp"
+              src="/Images/vs.png"
               ref={ImgRef}
             />
             <img
               alt="logo"
               className="hero-img mobile"
-              src="/Images/hisa6.webp"
+              src="/Images/vs.png"
               ref={ImgRef}
             />
 

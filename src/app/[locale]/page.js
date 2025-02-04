@@ -9,6 +9,7 @@ import Sticky from "./_components/Sticky/Sticky";
 import Vision from "./_components/Vision/Vision";
 import "../globals.css";
 import LanguagesButton from "../../../public/Components/languageButton/languageButton";
+import FooterBanner from "./_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

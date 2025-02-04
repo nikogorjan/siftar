@@ -266,7 +266,7 @@ const Stats = () => {
                   </div>
                   <div className="hiddenw">
                     <div className="stat-right" ref={whiteService3Ref}>
-                      5
+                      9
                     </div>
                   </div>
                 </div>

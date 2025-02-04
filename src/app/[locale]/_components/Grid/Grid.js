@@ -10,26 +10,26 @@ const Grid = () => {
         <div className="grid-wrapper">
           <div className="bento-grid w-layout-grid ">
             <div className="bento-item item1">
-              <img alt="logo" className="bento-img" src="/Images/hisa6.webp" />
+              <img alt="logo" className="bento-img" src="/Images/vs3.jpg" />
             </div>
             <div className="bento-item item2">
-              <img alt="logo" className="bento-img" src="/Images/g7.webp" />
+              <img alt="logo" className="bento-img" src="/Images/vs2.png" />
             </div>
             <div className="bento-item item3">
-              <img alt="logo" className="bento-img" src="/Images/g8.webp" />
+              <img alt="logo" className="bento-img" src="/Images/vs9.jpg" />
             </div>
             <div className="bento-item item4">
               <img
                 alt="logo"
                 className="bento-img higher"
-                src="/Images/g9.webp"
+                src="/Images/vs5.jpg"
               />
             </div>
             <div className="bento-item item5">
-              <img alt="logo" className="bento-img" src="/Images/g10.webp" />
+              <img alt="logo" className="bento-img" src="/Images/vs6.jpg" />
             </div>
             <div className="bento-item item6">
-              <img alt="logo" className="bento-img" src="/Images/g11.webp" />
+              <img alt="logo" className="bento-img" src="/Images/vs8.jpg" />
             </div>
           </div>
 

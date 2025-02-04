@@ -68,12 +68,13 @@
     "description": "Naše gostišče Šiftar ponuja vrhunsko kulinariko in udobno nastanitev, ki vam zagotavljata nepozabno izkušnjo.",
     "email_title": "Email",
     "email_description": "Pišite nam na naš email naslov.",
-    "email_link_label": "hello@relume.io",
+    "email_link_label": "maja.siftar76@gmail.com",
     "phone_title": "Telefon",
     "phone_description": "Pokličite nas za več informacij.",
-    "phone_link_label": "+1 (555) 000-0000",
+    "phone_link_label": "+386 41-660-500",
     "office_title": "Lokacija",
     "office_description": "Levstikova ulica 24, 9226 Moravske Toplice",
+    "office_description1": "Kratka ulica 1, 9226 Moravske Toplice",
     "office_button_title": "Pridobite navodila",
     "pn": "Navodila za pot"
   },
@@ -154,9 +155,9 @@
     "tagline": "Kontaktirajte nas",
     "heading": "Stopite v stik z nami",
     "description": "Imate vprašanje? Pišite nam in bomo z veseljem odgovorili.",
-    "email": "info@vašepodjetje.si",
-    "phone": "+386 1 234 5678",
-    "address": "Cesta 123, 1000 Ljubljana, Slovenija",
+    "email": "maja.siftar76@gmail.com",
+    "phone": "+386 41-660-500",
+    "address": "Kratka ulica 1, 9226 Moravske Toplice",
     "button": {
       "title": "Pošlji sporočilo"
     },
@@ -318,7 +319,9 @@
     "otr": "Na voljo je brezplačna otroška postelja.",
     "stg": "Število gostov",
     "pvs": "Ponudba vile Šiftar",
-    "js": "Jedilnik gostišča Šiftar"
+    "js": "Jedilnik gostišča Šiftar",
+    "ep": "Enoposteljna soba",
+    "es": "Ponujamo 6 enopostelnih sob, za rezervacijo nas kontaktirajte."
   },
   "str": {
     "stranke": "Mnenja naših strank",

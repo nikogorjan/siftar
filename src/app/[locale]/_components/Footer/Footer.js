@@ -1,6 +1,7 @@
 import React from "react";
 import "../../../globals.css";
 import { useTranslations } from "next-intl";
+import FooterBanner from "./FooterBanner";
 
 const Footer = () => {
   const t = useTranslations("HomePage");
@@ -17,9 +18,12 @@ const Footer = () => {
       </div>
 
       <div className="socials">
-        <p className="rights">Facebook</p>
-        <p className="rights">Instagram</p>
-        <p className="rights">Linkedin</p>
+        <a
+          className="underlinenone"
+          href="https://www.facebook.com/profile.php?id=100063369180013&locale=sl_SI"
+        >
+          <p className="rights">Facebook</p>
+        </a>
       </div>
     </section>
   );

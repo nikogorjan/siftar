@@ -580,6 +580,21 @@ footer {
   justify-content: space-between;
 }
 
+.hei {
+  height: 80px;
+}
+
+.ws {
+  width: 200px;
+}
+
+.flexy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
 .reservations {
   padding-bottom: 7rem;
 }
@@ -911,6 +926,22 @@ footer {
 
 .max-w-xxl {
   max-width: 1080px;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.underlinenone {
+  text-decoration: none;
 }
 
 @media (max-width: 1600px) {
@@ -1292,5 +1323,17 @@ footer {
 
   .gap-4 {
     gap: 24px;
+  }
+}
+
+@media (max-width: 420px) {
+  .ws {
+    width: 120px;
+  }
+}
+
+@media (max-width: 300px) {
+  .flexy {
+    flex-direction: column;
   }
 }

@@ -10,6 +10,7 @@ import { Testimonial11 } from "./_components/Testimonial11/Testimonial11";
 import { Faq3 } from "../o-nas/_components/Faq3/Faq3";
 import { Layout94 } from "./_components/Layout94/Layout94";
 import Contact14 from "./_components/Contact14/Contact14";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

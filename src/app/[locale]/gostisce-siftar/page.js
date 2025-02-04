@@ -8,6 +8,7 @@ import { RestaurantMenu } from "./_components/Menu/Layout351";
 import LanguagesButton from "../../../../public/Components/languageButton/languageButton";
 import { Layout94 } from "./_components/Layout94/Layout94";
 import { Contact14 } from "./_components/Contact14/Contact14";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

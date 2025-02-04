@@ -26,13 +26,13 @@ const Reservation = () => {
           <div className="rezervacija-row">
             <div className="rezervacija-cell">
               <a href={`/${locale}/vila-siftar`}>
-                <img alt="food1" className="res-img" src="/Images/hisa5.webp" />
+                <img alt="food1" className="res-img" src="/Images/vs3.jpg" />
                 <p className="za-p">{t("vila")}</p>
               </a>
             </div>
             <div className="rezervacija-cell">
               <a href={`/${locale}/gostisce-siftar`}>
-                <img alt="food1" className="res-img" src="/Images/hisa7.webp" />
+                <img alt="food1" className="res-img" src="/Images/vs2.png" />
                 <p className="za-p">{t("gostisce")}</p>
               </a>
             </div>

@@ -32,7 +32,7 @@ export const Header36 = () => {
       </div>
       <div>
         <img
-          src="/Images/g9.webp"
+          src="/Images/room.jpg"
           alt="gostisce"
           className="w-full object-cover lg:h-screen lg:max-h-[60rem]"
         />

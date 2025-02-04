@@ -7,6 +7,7 @@ import { Layout498 } from "./_components/Layout498/Layout498";
 import { Testimonial18 } from "./_components/Testimonial18/Testimonial18";
 import { Faq3 } from "./_components/Faq3/Faq3";
 import { Header123 } from "./_components/Header123/Header123";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }

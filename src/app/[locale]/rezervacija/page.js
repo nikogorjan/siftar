@@ -10,6 +10,7 @@ import { Layout194 } from "./_components/Layout194/Layout194";
 import { Layout1941 } from "./_components/Layout1941/Layout1941";
 import { Layout322 } from "./_components/Layout322/Layout322";
 import Contact144 from "./_components/Contact144/Contact144";
+import FooterBanner from "../_components/Footer/FooterBanner";
 
 export default function Home() {
   return (
@@ -29,6 +30,7 @@ export default function Home() {
       <footer>
         <Footer />
       </footer>
+      <FooterBanner />
     </main>
   );
 }
