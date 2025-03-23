@@ -1,3 +1,4 @@
+"use client"
 import Navbar from "../../../../public/Components/Navbar/Navbar";
 import Footer from "../_components/Footer/Footer";
 import { Header36 } from "./_components/Header/Header";
@@ -9,11 +10,13 @@ import LanguagesButton from "../../../../public/Components/languageButton/langua
 import { Layout94 } from "./_components/Layout94/Layout94";
 import { Contact14 } from "./_components/Contact14/Contact14";
 import FooterBanner from "../_components/Footer/FooterBanner";
+import GoogleAnalytics from "../../../../src/google-analytics/google-analytics";
 
 export default function Home() {
   return (
     <main>
       <div className="thisstupis">
+        <GoogleAnalytics/>
         <Navbar />
         <Header36 />
         <RestaurantMenu />

@@ -1,3 +1,5 @@
+"use client"
+
 import Navbar from "../../../../public/Components/Navbar/Navbar";
 import Footer from "../_components/Footer/Footer";
 import "../../globals.css";
@@ -8,11 +10,13 @@ import { Layout42 } from "./_components/Layout42/Layout42";
 import { Layout132 } from "./_components/Layout132/Layout132";
 import { Cta19 } from "./_components/Cta19/Cta19";
 import FooterBanner from "../_components/Footer/FooterBanner";
+import GoogleAnalytics from "../../../../src/google-analytics/google-analytics";
 
 export default function Home() {
   return (
     <main>
       <div className="thisstupis">
+        <GoogleAnalytics/>
         <Navbar />
         <Header123 />
         <Layout90 />
