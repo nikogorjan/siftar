@@ -37,13 +37,13 @@ export const Header15 = (props: Header15Props) => {
             <p className="md:text-md neue text-gray">{t("description")}</p>
           </div>
         </div>
-        <div>
+        {/*<div>
           <img
             src={image.src}
             className="w-full object-cover"
             alt={image.alt}
           />
-        </div>
+        </div>*/}
       </div>
     </section>
   );
