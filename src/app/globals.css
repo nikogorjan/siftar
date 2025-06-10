@@ -588,6 +588,10 @@ footer {
   width: 200px;
 }
 
+.ws-smaller {
+  width: 75px;
+}
+
 .flexy {
   display: flex;
   align-items: center;

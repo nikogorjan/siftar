@@ -10,6 +10,11 @@ const FooterBanner = () => {
       <div className="w-full flexy">
         <img src="/Images/sponsor.jpg" alt="footer sponsor" className="ws" />
         <img src="/Images/sponsor2.jpg" alt="footer sponsor2" className="ws" />
+        <img
+          src="/Images/sponsor3.png"
+          alt="footer sponsor2"
+          className="ws-smaller"
+        />
       </div>
     </section>
   );
